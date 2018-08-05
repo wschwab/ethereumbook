@@ -110,7 +110,7 @@ considering the decisions and strategy of the other actors.
 
 Take, for example, the situation where you and I decide to meet after work. We'd both really like to
 meet at the pub, but we are okay meeting at the coffeehouse instead. If we're able to coordinate our
-plans and meet at the pub, we are each rewarded with a utility score of 1. If we instead meet at the
+plans and meet at the pub, we are each rewarded with a utility score of 2. If we instead meet at the
 coffeehouse we each receive a score of 1. If you go to the pub and I go to the coffeehouse, or vice
 versa, we each receive zero utility (since, presumably, we have to sit alone and entertain
 ourselves). As you can see the outcome, and my utility, depend not only upon my own actions but also
